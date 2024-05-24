@@ -6,7 +6,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["var(--font-geist-sans)", ...fontFamily.sans],
+        fancy: ["Magnat", ...fontFamily.sans],
+        primary: ["var(--font-geist-sans)", ...fontFamily.sans],
       },
     },
   },
