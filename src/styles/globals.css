@@ -1,3 +1,93 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-Light.woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-LightItalic.woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-Regular.woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-RegularItalic.woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-Medium.woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-MediumItalic.woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-SemiBold.woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-SemiBoldItalic.woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-Bold.woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-BoldItalic.woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-ExtraBold.woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Magnat";
+  src: url("/fonts/magnat/Magnat-ExtraBoldItalic.woff");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
