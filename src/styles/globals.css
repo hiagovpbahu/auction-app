@@ -91,3 +91,11 @@
   font-style: italic;
   font-display: swap;
 }
+
+@font-face {
+  font-family: "Eina-03";
+  src: url("/fonts/eina/Eina03-Bold.ttf");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
